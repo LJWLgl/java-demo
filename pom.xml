@@ -6,6 +6,7 @@
     <modules>
         <module>design-patterns</module>
         <module>jwt-demo</module>
+        <module>spring-ioc-aop-learning</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>

@@ -8,7 +8,8 @@
         <module>jwt-demo</module>
         <module>spring-ioc-aop-learning</module>
 		<module>es-demo</module>
-    </modules>
+		<module>dubbo-demo</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
